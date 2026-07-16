@@ -18,6 +18,8 @@ datasets/augmented/*
 !datasets/raw/.gitkeep
 !datasets/processed/.gitkeep
 !datasets/augmented/.gitkeep
+!datasets/augmented/ginger/
+!datasets/augmented/ginger/**/*
 
 # Logs and outputs
 logs/
